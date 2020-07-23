@@ -1,4 +1,5 @@
 package util;
+// Импортируем депенденси от рекваетри иммутебл хэшлинкстринг запросов
 
 import org.hyperskill.hstest.v6.common.FileUtils;
 import org.junit.Test;
